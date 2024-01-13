@@ -1,0 +1,52 @@
+1. Pandas
+
+2. Numpy
+
+3. PschoPg2
+
+Basic Keylogger
+------------------
+
+4. OS Module : provides a way of using os-dependent functionality, such as interacting with the file system, executing commands, and managing environment variables
+
+5. Pynput : allows you to control and monitor input devices. It provides a convenient way to interact with input events and simulate input actions
+
+6. Time : allows you to work with time, both in terms of formatting and handling time-related operations. Example: time.sleep()
+
+
+System, Clipboard info and web cam
+------------------------------------
+
+7. Platform : provides an interface to interact with information about the underlying platform (operating system, hardware, etc.) on which the Python interpreter is running.
+
+8. Socket :  enables communication between processes over a computer network, supporting both TCP and UDP protocols. allows you to create, configure, and manage network sockets, which are the endpoints for sending or receiving data in a network.
+
+9. Win32Clipboard : 
+
+10. OpenCV : Open Source Computer Vision Library, is a popular computer vision and image processing library in Python
+
+
+Email and Audio
+------------------
+
+11. email Module : provides a set of classes for managing email messages. It allows you to create, parse, and manipulate email messages. 
+
+14. Encoder : 
+
+15. SMTPLIB :  is used for sending emails using the Simple Mail Transfer Protocol (SMTP). It provides a convenient way to connect to an SMTP server, authenticate, and send email messages.
+
+16. Soundevice : 
+
+17. Scipy.io : provides functions to read and write various file formats commonly encountered in scientific computing, such as MATLAB files, NetCDF files, and more.
+
+
+Screenshot and Login Module
+-----------------------------
+
+18. Python Imaging Liberary (PIL)/ Pillow : to work with images in Python, especially for tasks like opening, manipulating, and saving images
+
+19. Multiprocessing : 
+
+20. Fernet : 
+
+21.Cryptography : 
