@@ -1,6 +1,6 @@
 1. Pandas
 
-2. Numpy
+2. Numpy :  fundamental package for scientific computing with Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these elements
 
 3. PschoPg2
 
@@ -21,7 +21,6 @@ System, Clipboard info and web cam
 
 8. Socket :  enables communication between processes over a computer network, supporting both TCP and UDP protocols. allows you to create, configure, and manage network sockets, which are the endpoints for sending or receiving data in a network.
 
-9. Win32Clipboard : 
 
 10. OpenCV : Open Source Computer Vision Library, is a popular computer vision and image processing library in Python
 
